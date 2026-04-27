@@ -36,14 +36,6 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="right" 
-    alt="GIF" 
-    title="GIF"
-    width="200px" 
-    style="padding-right: 100px;" 
-    src="https://media1.tenor.com/m/Va_MYd9zdeUAAAAC/gato-mouse.gif" 
-/>
-<img 
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
@@ -115,3 +107,12 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
   />
 
 </p>
+
+<img 
+    align="right" 
+    alt="GIF" 
+    title="GIF"
+    width="200px" 
+    style="padding-right: 100px;" 
+    src="https://media1.tenor.com/m/Va_MYd9zdeUAAAAC/gato-mouse.gif" 
+/>
