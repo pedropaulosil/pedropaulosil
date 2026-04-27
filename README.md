@@ -36,11 +36,11 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
-    align="Right" 
+    align="right" 
     alt="GIF" 
     title="GIF"
-    width="400px" 
-    style="padding-right: 0px;" 
+    width="300px" 
+    style="padding-right: 100px;" 
     src="https://media1.tenor.com/m/Va_MYd9zdeUAAAAC/gato-mouse.gif" 
 />
 <img 
