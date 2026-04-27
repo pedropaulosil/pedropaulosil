@@ -39,8 +39,8 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
     align="Right" 
     alt="GIF" 
     title="GIF"
-    width="30px" 
-    style="padding-right: 10px;" 
+    width="400px" 
+    style="padding-right: 0px;" 
     src="https://media1.tenor.com/m/Va_MYd9zdeUAAAAC/gato-mouse.gif" 
 />
 <img 
