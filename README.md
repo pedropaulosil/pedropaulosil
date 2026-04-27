@@ -6,9 +6,8 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento
 
 <p align="left">
 </p>
-<br>
-<br>
-<br>
+
+---
 <img 
     align="right" 
     alt="GIF" 
@@ -17,8 +16,6 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento
     style="padding-right: 50px; padding-top: 0px"
     src="https://github.com/user-attachments/assets/18d9023a-45d9-4eb1-92f2-f936d0a2bef7"
 />
-
----
 
 ### 🤖 Linguagens e Tecnologias 
 <img 
