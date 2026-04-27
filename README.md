@@ -6,6 +6,9 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento
 
 <p align="left">
 </p>
+<br>
+<br>
+<br>
 <img 
     align="right" 
     alt="GIF" 
