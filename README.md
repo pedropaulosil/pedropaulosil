@@ -8,8 +8,8 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento
     align="right" 
     alt="GIF" 
     title="GIF"
-    width="200px" 
-    style="padding-right: 10px; padding-top: 40px"
+    width="300px" 
+    style="padding-right: 10px; padding-top: 100px"
     src="https://github.com/user-attachments/assets/18d9023a-45d9-4eb1-92f2-f936d0a2bef7"
 />
 
