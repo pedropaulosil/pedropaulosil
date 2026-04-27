@@ -94,6 +94,8 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
 
 <br/>
 <br/>
+<br/>
+<br/>
 
 ### 📊 Estatísticas
 
