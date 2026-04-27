@@ -41,7 +41,7 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
     title="GIF"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://tenor.com/pt-BR/search/cat-computer-gif-gifs" 
+    src="https://media1.tenor.com/m/Va_MYd9zdeUAAAAC/gato-mouse.gif" 
 />
 <img 
     align="left" 
