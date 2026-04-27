@@ -114,5 +114,5 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
     title="GIF"
     width="200px" 
     style="padding-right: 100px;" 
-    src="https://github.com/pedropaulosil/pedropaulosil/issues/1"
+    src="https://github.com/user-attachments/assets/18d9023a-45d9-4eb1-92f2-f936d0a2bef7"
 />
