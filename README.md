@@ -108,4 +108,11 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
 
 </p>
 
-<div class="tenor-gif-embed" data-postid="15481689" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/cat-computer-typing-busy-gif-15481689">Cat Computer GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img 
+    align="right" 
+    alt="GIF" 
+    title="GIF"
+    width="200px" 
+    style="padding-right: 100px;" 
+    src="https://media1.tenor.com/m/Va_MYd9zdeUAAAAC/gato-mouse.gif" 
+/>
