@@ -13,7 +13,7 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento
     alt="GIF" 
     title="GIF"
     width="150px" 
-    style="padding-right: 50px; padding-top: 0px"
+    style="padding-right: 200px; padding-top: 0px"
     src="https://github.com/user-attachments/assets/18d9023a-45d9-4eb1-92f2-f936d0a2bef7"
 />
 
