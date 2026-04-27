@@ -114,5 +114,5 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
     title="GIF"
     width="200px" 
     style="padding-right: 100px;" 
-    src="https://media1.tenor.com/m/Va_MYd9zdeUAAAAC/gato-mouse.gif" 
+    src="https://github.com/pedropaulosil/pedropaulosil/issues/1"
 />
