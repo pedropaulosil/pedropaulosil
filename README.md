@@ -83,6 +83,15 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
+<img 
+    align="right" 
+    alt="GIF" 
+    title="GIF"
+    width="200px" 
+    style="padding-right: 100px;" 
+    src="https://github.com/user-attachments/assets/18d9023a-45d9-4eb1-92f2-f936d0a2bef7"
+/>
+
 
 <br/>
 <br/>
@@ -107,12 +116,3 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
   />
 
 </p>
-
-<img 
-    align="right" 
-    alt="GIF" 
-    title="GIF"
-    width="200px" 
-    style="padding-right: 100px;" 
-    src="https://github.com/user-attachments/assets/18d9023a-45d9-4eb1-92f2-f936d0a2bef7"
-/>
