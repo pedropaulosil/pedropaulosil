@@ -39,7 +39,7 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
     align="right" 
     alt="GIF" 
     title="GIF"
-    width="300px" 
+    width="200px" 
     style="padding-right: 100px;" 
     src="https://media1.tenor.com/m/Va_MYd9zdeUAAAAC/gato-mouse.gif" 
 />
@@ -94,8 +94,7 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 ### 📊 Estatísticas
 
