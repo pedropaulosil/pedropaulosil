@@ -96,12 +96,4 @@ que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
 <br/>
 <br/>
 
-
-
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropaulosil&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
 </p>
