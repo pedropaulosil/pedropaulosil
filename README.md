@@ -1,5 +1,5 @@
 ## Olá!👋
-#👨‍💻 PedroSilva
+# 👨‍💻 PedroSilva
 
 Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas na FATEC. Conhecimentos em C, C++, Java, Python, Javascript, CSS e HTML, BootStrap, My SQL, SpringBoot, JPA, Git e Github. Procuro uma oportunidade em
 que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
