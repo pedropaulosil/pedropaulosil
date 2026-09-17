@@ -1,7 +1,6 @@
 ## Olá!
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2007c543-24aa-4a8a-8520-de1dcfcc3274" />
+## <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/e1d5db8e-1add-4c65-bd60-6dabd4b35e7d" />
 
-<i class="fi fi-br-computer"></i>
 
 # Pedro Paulo
 
