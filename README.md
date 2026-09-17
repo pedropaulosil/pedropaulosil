@@ -1,5 +1,5 @@
 ## Olá!
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/869adb99-7b2a-4fea-828a-118b46d00e54" />
+##<i class="fi fi-br-computer"></i>
 
 # Pedro Paulo
 
