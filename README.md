@@ -1,7 +1,8 @@
-## Olá! 
-## <img width="20" height="17" alt="image" src="https://github.com/user-attachments/assets/e1d5db8e-1add-4c65-bd60-6dabd4b35e7d" /> Me chamo Pedro Paulo
+## Olá! Sou o Pedro Paulo
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/17f632dc-5ebc-4ef3-a6e3-623282583f83" />
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC MC e desenvolvedor back-end. Conhecimentos em C, C++, Java, SpringBoot, JPA, Maven, Python, Javascript, CSS e HTML, My SQL, Git e Github.     
+
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC MC e desenvolvedor back-end. Conhecimentos em C, C++, Java, SpringBoot, JPA, Maven, Python, Javascript, CSS e HTML, My SQL, Git e Github.     
 Procuro uma oportunidade em que eu possa aplicar meus conhecimentos e adentrar na área de desenvolvimento.
 
 <p align="left">
